@@ -50,7 +50,7 @@ This project organizes pizza sales data across four interconnected tables:
 
 **price:** Price of the pizza based on its size.
 
-### Business problems and solutions
+## Business problems and solutions
 
 ### 1. Retrieve the total number of orders placed.
 
