@@ -11,7 +11,7 @@ This project uses a "fictional dataset" based on the structure of Pizza sales. T
 
 This project organizes pizza sales data across four interconnected tables:
 
-###Order Details:
+### Order Details:
 
 **order_details_id:** Unique identifier for each order detail.
 
