@@ -52,7 +52,7 @@ This project organizes pizza sales data across four interconnected tables:
 
 ### Business problems and solutions
 
-# 1. Retrieve the total number of orders placed.
+### 1. Retrieve the total number of orders placed.
 
 ```sql
 SELECT 
