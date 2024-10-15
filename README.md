@@ -11,7 +11,7 @@ This project uses a "fictional dataset" based on the structure of Pizza sales. T
 
 This project organizes pizza sales data across four interconnected tables:
 
-**Order Details:**
+###Order Details:
 
 **order_details_id:** Unique identifier for each order detail.
 
@@ -21,7 +21,7 @@ This project organizes pizza sales data across four interconnected tables:
 
 **quantity:** Number of pizzas ordered.
 
-**Orders:**
+### Orders:
 
 **order_id:** Unique identifier for each order.
 
@@ -30,7 +30,7 @@ This project organizes pizza sales data across four interconnected tables:
 **time:** Time the order was placed.
 
 
-**Pizza Types:**
+### Pizza Types:
 
 **pizza_type_id:** Unique identifier for each pizza type.
 
@@ -40,7 +40,7 @@ This project organizes pizza sales data across four interconnected tables:
 
 **ingredients:** List of ingredients used in each pizza type.
 
-**Pizza Details:**
+### Pizza Details:
 
 **pizza_id:** Unique identifier for each pizza.
 
