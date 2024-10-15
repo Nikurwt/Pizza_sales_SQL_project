@@ -1,4 +1,4 @@
-# Pizza_sales_SQL_project
+# PIZZA_SALES_SQL_PROJECT
 
 ## Project Goal:
 This project uses SQL as a means of dealing with pizza sales data that it receives from the source in the form of Excel files. It organizes the data into four tables: order details, orders, pizza types, and pizza details. Its aim is to give some valuable inputs on customer preferences and order trends, the given pricing of pizzas, and other sell-through data.Basically, the project would provide an opportunity for optimization in the business area while improving on the menu and other selling plans.
